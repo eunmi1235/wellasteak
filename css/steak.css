@@ -56,8 +56,8 @@ line-height: 150%;
 top: 0;
 color: #333;
 right: 0; overflow-x: hidden;}
-
-a {color: #b7b7b7; text-decoration: none;}
+#wi {text-align: center;}
+    a {color: #b7b7b7; text-decoration: none;}
 a:hover {color: #333; text-decoration: none;}
 #wrap {width: 100%;}
 nav {width: 1000px; margin: 0 auto; height: 130px; clear: both;}
